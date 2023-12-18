@@ -1,0 +1,109 @@
+[
+    {
+      "image" : "foodcart_images/fries.jpg",
+      "description" : "Fries",
+      "price" : 5
+    },
+
+    {
+      "image" : "foodcart_images/burger.jpg",
+      "description" : "Cheesy Burger",
+      "price" : 20
+    },
+
+    
+    {
+      "image" : "foodcart_images/calamares.jpg",
+      "description" : "Crunchy Calamares",
+      "price" : 10
+    },
+
+    
+    {
+      "image" : "foodcart_images/tacos.jpg",
+      "description" : "Tacos",
+      "price" : 15
+    },
+
+    
+    {
+      "image" : "foodcart_images/sushi.jpg",
+      "description" : "Sushi Rolls",
+      "price" : 25
+    },
+
+    
+    {
+      "image" : "foodcart_images/pizza.jpg",
+      "description" : "Pizza",
+      "price" : 140
+    },
+
+    
+    {
+      "image" : "foodcart_images/noodles.jpg",
+      "description" : "Fried Noodles",
+      "price" : 120
+    },
+
+    
+    {
+      "image" : "foodcart_images/wraps.jpeg",
+      "description" : "Falafel Wraps",
+      "price" : 10
+    },
+
+    
+    {
+      "image" : "foodcart_images/skewers.jpg",
+      "description" : "Grilled Chicken Skewers",
+      "price" : 2
+    },
+
+    
+    {
+      "image" : "foodcart_images/hotdog.jpg",
+      "description" : "Classic Hot Dogs ",
+      "price" : 30
+    },
+
+    
+    {
+      "image" : "foodcart_images/crepes.jpg",
+      "description" : "Freshly Made Crepes",
+      "price" : 1
+    },
+
+    
+    {
+      "image" : "foodcart_images/rolls.jpg",
+      "description" : "Vegetarian Spring Rolls",
+      "price" : 80
+    },
+
+    {
+      "image" : "foodcart_images/potato.jpg",
+      "description" : "Loaded Baked Potatoes",
+      "price" : 60
+    },
+
+    {
+      "image" : "foodcart_images/Quesadillas.jpg",
+      "description" : "Quesadillas",
+      "price" : 50
+    },
+
+    {
+      "image" : "foodcart_images/sandwich.jpg",
+      "description" : "Gourmet Grilled Cheese Sandwich",
+      "price" : 40
+    },
+
+    {
+      "image" : "foodcart_images/pulledpork.jpg",
+      "description" : "BBQ Pulled Pork Sandwiches",
+      "price" : 30
+    }
+
+
+]
